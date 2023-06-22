@@ -1,0 +1,16 @@
+{
+  "name": "warrior-game",
+  "version": "1.0.0",
+  "description": "A simple game featuring warriors, weapons, and an arena.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["warrior", "game"],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
